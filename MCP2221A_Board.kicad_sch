@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "74bfc53f-e526-4e42-95d3-c557b918206e")
 	(paper "A4")
+	(title_block
+		(title "MCP2221A Board")
+		(date "2024-09-18")
+		(rev "0.1")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_B_Mini"
 			(pin_names
